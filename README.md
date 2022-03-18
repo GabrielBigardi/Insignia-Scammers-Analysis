@@ -79,8 +79,9 @@ ns03.freenom.com 104.155.27.112
 ns04.freenom.com 104.155.29.241  
   
 ## Summary  
-They're using the node.js framework "nexe" to convert a simple node app to .exe.  
+They are using the node.js to code the Discord Token Stealer and the framework "nexe" to convert a simple node app to .exe.  
 This app first check if there's any Discord in your registry, it won't send any requests if you don't have it installed, if you have Discord installed it will send your Discord Token (immutable) to the domain superfuniestindianparty.rip.  
 They are using Visual Studio 2015 - 14.0.  
 Their working directory is "C:\Users\admin\.nexe\16.7.0\out\", user named "admin", probably on some virtual machine.  
 The file doesn't seems to persist or have any kind of keylogger into it.  
+They are using Freenom to have a free domain and also using freenom nameservers.  
