@@ -78,6 +78,17 @@ ns02.freenom.com 52.19.156.76
 ns03.freenom.com 104.155.27.112  
 ns04.freenom.com 104.155.29.241  
   
+## superfuniestindianparty.rip machine (the one receiving the stealed tokens)  
+IP Address: 185.174.136.147  
+Country Code: RU  
+Location: Moscow Oblast, Russia, Europe  
+Network: 185.174.136.0/24  
+Approximate Coordinates: 55.9155, 37.8263  
+Accuracy Radius (km): 50  
+Internet Service Provider: AEZA GROUP Ltd  
+Organization: AEZA GROUP Ltd  
+Domain: aeza.network  
+  
 ## Summary  
 They are using the node.js to code the Discord Token Stealer and the framework "nexe" to convert a simple node app to .exe.  
 This app first check if there's any Discord in your registry, it won't send any requests if you don't have it installed, if you have Discord installed it will send your Discord Token (immutable) to the domain superfuniestindianparty.rip.  
