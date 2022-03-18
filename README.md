@@ -85,3 +85,6 @@ They are using Visual Studio 2015 - 14.0.
 Their working directory is "C:\Users\admin\.nexe\16.7.0\out\", user named "admin", probably on some virtual machine.  
 The file doesn't seems to persist or have any kind of keylogger into it.  
 They are using Freenom to have a free domain and also using freenom nameservers.  
+
+## How to report them to the domain provider
+[Click Here](https://www.freenom.com/en/reportabuse.html)
