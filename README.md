@@ -70,7 +70,7 @@ Whois Server: whois.opentld.com
 Referral URL: http://www.opentld.com  
 Expires On: 2023-01-28  
 Registered On: 2022-01-28  
-Updated On: 2022-02-02  
+Updated On: 2022-03-19  
   
 ## superfuniestindianparty.rip nameservers  
 ns01.freenom.com 54.171.131.39  
